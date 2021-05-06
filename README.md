@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4736792.svg)](https://doi.org/10.5281/zenodo.4736792)
-
 # Supplementary Material For Our PROPSER21 Paper
 Supplementary Material for the paper by Angelika Kaplan and Jan Keim with the title 'Towards an Automated Classification Approach for Software Engineering Research'.
 
