@@ -1,0 +1,27 @@
+# YAML 1.2
+---
+abstract: "The rapid growth of software engineering research publications forces an amount of scholarly knowledge that needs to be managed, organized and communicated in digital libraries and scientific search engines. Thus, there is a need for classified papers to accomplish these tasks, but the classification process is cumbersome. Moreover, in case of new schemas, one would need to reclassify previously published research. We propose to automate the classification and present different possible techniques for doing so: Using natural language models, a rule-based approach, or an approach based on topic-labeling. In this proposal paper, we initially implemented a prototype for text classification of software engineering research papers."
+authors: 
+  -
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+    family-names: Kaplan
+    given-names: Angelika
+  -
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+    family-names: Keim
+    given-names: Jan
+    orcid: "https://orcid.org/0000-0002-8899-7081"
+cff-version: "1.1.0"
+date-released: 2021-06-21
+doi: "10.1145/3463274.3463358"
+identifiers: 
+keywords: 
+  - "scholarly knowledge communication"
+  - "neural machine learning"
+  - "information extraction"
+  - "Research knowledge organization and management"
+  - NLP
+  - "text classification"
+message: "If you use this software, please cite it using these metadata."
+title: "Towards an Automated Classification Approach for Software Engineering Research"
+...
